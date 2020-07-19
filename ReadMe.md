@@ -9,4 +9,9 @@ Basic Programming
 Flaky Test 
 1. Flaky test is a test which could fail or pass using same configuration 
 2. By explicit waits or implicit waits or fluent waits or web driver wait or thread sleep 
-3. By disabling CAPTCHAs in the test environment or adding a hook to allow tests to bypass the CAPTCHA 
+3. By disabling CAPTCHAs in the test environment or adding a hook to allow tests to bypass the CAPTCHA
+
+Essay Question Topics
+1. in src/test/java/ApiTest
+2. in src/test/java/WebTest and src/test/resources/Features/WebTest
+3. in src/test/java/AppTest and src/test/resources/Features/AppTest
