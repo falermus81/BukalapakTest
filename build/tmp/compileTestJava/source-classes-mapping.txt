@@ -4,8 +4,8 @@ WebTest/Steps/HomePageSteps.java
  WebTest.Steps.HomePageSteps
 AppTest/PageBucket/PageBucket.java
  AppTest.PageBucket.PageBucket
-Main/Main.java
- Main.Main
+ApiTest/ResponseBody.java
+ ApiTest.ResponseBody
 AppTest/Pages/LoginPage.java
  AppTest.Pages.LoginPage
 WebTest/Pages/BasePage.java
@@ -28,7 +28,7 @@ AppTest/Steps/RegisterPageSteps.java
  AppTest.Steps.RegisterPageSteps
 ApiTest/DataBody.java
  ApiTest.DataBody
-ApiTest/ResponseBody.java
- ApiTest.ResponseBody
 ApiTest/ApiTest.java
  ApiTest.ApiTest
+interview/Interview.java
+ interview.Interview
